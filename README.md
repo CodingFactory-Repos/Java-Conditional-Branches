@@ -4,7 +4,7 @@
 ## Where is the file located?
 
 ```bash
-$ src/me/Main.java
+$ src/me/loule/Main.java
 ```
 
 ## Contributing
